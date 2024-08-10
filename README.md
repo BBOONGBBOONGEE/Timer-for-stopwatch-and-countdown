@@ -1,5 +1,5 @@
 # Timer-for-stopwatch-and-countdown
-스톱워치, 카운트다운이 가능하며 축구(스포츠용)시간도 나타낼 수 있는 타이머입니다.
+파이썬으로 제작된 스톱워치, 카운트다운이 가능하며 축구(스포츠용)시간도 나타낼 수 있는 타이머입니다.
 
 ![image](https://github.com/user-attachments/assets/3e6f9e31-c49e-4cdf-be77-51acc78a5c79)
 ![image](https://github.com/user-attachments/assets/9c6efc0d-542e-42f8-97a2-bdc5d4da5ba9)
